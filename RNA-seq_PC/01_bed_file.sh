@@ -1,0 +1,1 @@
+~/plink2 --vcf xx.vcf.gz --make-bed --out  前缀

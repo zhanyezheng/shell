@@ -1,0 +1,1 @@
+trim_galore --phred33 --gzip --nextera -o ./trim_cutadapt --paired E14203_R1.fq.gz E14203_R2.fq.gz
